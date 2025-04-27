@@ -22,7 +22,7 @@ Welcome to this repository dedicated to learning **React.js**. Whether you're a 
 ## Getting Started:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/react-learning.git
+    git clone https://github.com/Gunal-k/React-Topics
     ```
 2. Navigate to the project folder:
     ```bash
