@@ -37,12 +37,6 @@ Welcome to this repository dedicated to learning **React.js**. Whether you're a 
     npm start
     ```
 
-## Projects:
-This repository also contains a few small projects you can build to get hands-on experience:
-- **To-Do List**
-- **Weather App**
-- **Blog App with API integration**
-
 ## Contributing:
 Feel free to fork the repository and contribute. You can add more resources, improve existing content, or create new projects.
 
