@@ -23,7 +23,7 @@ const Stopwatch = () => {
 		return {
 			minutes: String(minutes).padStart(2, "0"),
 			seconds: String(seconds).padStart(2, "0"),
-			milliseconds: String(ms).padStart(3, "0").slice(0, 2), // show only 2 digits
+			milliseconds: String(ms).padStart(3, "0").slice(0, 2),
 		};
 	};
 	const { minutes, seconds, milliseconds } = formatTime(time);
